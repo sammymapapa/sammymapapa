@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sammy Mapapa Nathanael  
+# 👋 Hey, I'm Sammy Mapapa   
 
 💻 **Aspiring Software & Web Developer** | 🚀 **Final Year IT Student** | 📱 **Android Enthusiast**  
 
