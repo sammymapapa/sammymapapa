@@ -1,3 +1,59 @@
+# 👋 Hey, I'm Sammy Mapapa Nathanael  
+
+💻 **Aspiring Software & Web Developer** | 🚀 **Final Year IT Student** | 📱 **Android Enthusiast**  
+
+I love creating solutions that combine mobile apps, web platforms, and smart backend integrations. Currently perfecting my **Android app dev (Java + Firebase + MPesa)** while expanding into **full-stack web development** with **PHP, React.js, Express.js, MySQL, and MongoDB**.  
+
+---
+
+## 🌍 About Me  
+- 🎓 IT Student passionate about mobile & web technologies  
+- 🚗 Working on **MapapaShowroom App** (Android + Firebase + MPesa payments)  
+- 🌱 Currently learning **Backend development** with MySQL & MongoDB  
+- 🛠 Expanding into **React.js** & **Express.js** for modern web projects  
+- 💡 Strong interest in **PHP** (polishing my skills to become pro)  
+- ✨ Exploring **portfolio building & tech writing**  
+- 📫 Reach me at: **sammymapapa@gmail.com**  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages & Frameworks:**  
+- Java | PHP | JavaScript | React.js | Express.js | HTML | CSS  
+
+**Mobile & Backend:**  
+- Android Studio (Java + Firebase)  
+- MySQL | MongoDB | Firebase Realtime Database  
+- REST APIs (Daraja MPesa Integration)  
+
+**Tools & Platforms:**  
+- Git & GitHub | VS Code | Kali Linux | Windows  
+
+---
+
+## 🚀 Featured Projects  
+
+- [**MapapaShowroom**](https://github.com/sammymapapa/MapapaShowroom) – Car dealership Android app (Bookings, Payments, Admin/User roles)  
+- [**Portfolio Website**](https://github.com/sammymapapa/portfolio) – Personal portfolio showcasing my projects and skills  
+- More coming soon... 🚧  
+
+---
+
+## 📊 GitHub Stats  
+
+![Sammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammymapapa&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammymapapa&layout=compact&theme=radical)  
+
+---
+
+## ⚡ Fun Fact  
+I debug with ☕ coffee + 🎶 gospel music — works every time.  
+
+---
+
+⭐️ *"Code, break it, fix it, repeat... that’s how growth happens."*  
 ## Hi there 👋
 
 <!--
