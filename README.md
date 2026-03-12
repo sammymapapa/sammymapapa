@@ -7,7 +7,7 @@ I love creating solutions that combine mobile apps, web platforms, and smart bac
 ---
 
 ## 🌍 About Me  
-- 🎓 IT Student passionate about mobile & web technologies  
+- 🎓 IT Graduate passionate about mobile & web technologies  
 - 🚗 Working on **MapapaShowroom App** (Android + Firebase + MPesa payments)  
 - 🌱 Currently learning **Backend development** with MySQL & MongoDB  
 - 🛠 Expanding into **React.js** & **Express.js** for modern web projects  
