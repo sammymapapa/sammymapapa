@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sammy Mapapa   
 
-💻 **Aspiring Software & Web Developer** | 🚀 **Final Year IT Student** | 📱 **Android Enthusiast**  
+💻 **Aspiring Software & Web Developer** | 🚀 **IT Graduate ** | 📱 **Android Enthusiast**  
 
 I love creating solutions that combine mobile apps, web platforms, and smart backend integrations. Currently perfecting my **Android app dev (Java + Firebase + MPesa)** while expanding into **full-stack web development** with **PHP, React.js, Express.js, MySQL, and MongoDB**.  
 
