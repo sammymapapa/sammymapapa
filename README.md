@@ -35,7 +35,7 @@ I love creating solutions that combine mobile apps, web platforms, and smart bac
 ## 🚀 Featured Projects  
 
 - [**MapapaShowroom**](https://github.com/sammymapapa/MapapaShowroom) – Car dealership Android app (Bookings, Payments, Admin/User roles)  
-- [**Portfolio Website**](https://github.com/sammymapapa/portfolio) – Personal portfolio showcasing my projects and skills
+- [**Portfolio Website**](https://sammymapapa.github.io/portfolio-website/) – Personal portfolio showcasing my projects and skills
 - [**Rideconnect Website**](https://github.com/sammymapapa/Rideconnect-website) - connecting communities, one ride at a time
 - More coming soon... 🚧  
 
