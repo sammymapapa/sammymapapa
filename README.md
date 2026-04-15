@@ -28,7 +28,7 @@ I love creating solutions that combine mobile apps, web platforms, and smart bac
 - REST APIs (Daraja MPesa Integration)  
 
 **Tools & Platforms:**  
-- Git & GitHub | VS Code | Kali Linux | Windows  
+- Git & GitHub | VS Code | Kali Linux | Windows  | Android Studio
 
 ---
 
